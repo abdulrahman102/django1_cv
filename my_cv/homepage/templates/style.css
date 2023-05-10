@@ -1,0 +1,19 @@
+body {
+        font-family: Arial, sans-serif;
+      }
+h1 {
+        text-align: center;
+      }
+h2 {
+        margin-bottom: 10px;
+      }
+.section {
+        margin-bottom: 20px;
+      }
+.section h2 {
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 5px;
+      }
+.section p {
+        margin-bottom: 5px;
+      }
